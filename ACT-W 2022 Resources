@@ -1,0 +1,26 @@
+ATT&CK https://attack.mitre.org/
+MITRE Cyber Analytics Repository (CAR): https://car.mitre.org/
+ATT&CK Workbench: https://github.com/center-for-threat-informed-defense/attack-workbench-frontend
+ATT&CK Navigator: https://mitre-attack.github.io/attack-navigator/) 
+CALDERA: https://github.com/mitre/caldera
+ATT&CK Datasources https://github.com/mitre-attack/attack-datasources
+Atomic Red Team: https://github.com/redcanaryco/atomic-red-team
+The Open Threat Research Forge (OTRF): https://github.com/OTRF
+Splunk using ATT&CK: https://www.splunk.com/en_us/blog/security/splunk-security-essentials-3-1-with-enhanced-mitre-att-ck-matrix-find-the-content-that-masters-most-to-you-faster.html
+Detection Lab: https://github.com/clong/DetectionLab
+Center for Threat Informed Defense (CTID) Control Framework Mappings: https://github.com/center-for-threat-informed-defense/attack-control-framework-mappings
+CALDERA Pathfinder: https://github.com/center-for-threat-informed-defense/caldera_pathfinder
+MITRE Compass: https://github.com/mitre/compass
+Attack Flow https://github.com/center-for-threat-informed-defense/attack-flow
+Caldera Pathfinder demo: https://www.youtube.com/watch?v=gQRWkHFRG-s
+Threat Modeling: https://www.comparitech.com/net-admin/threat-modeling-guide/
+Learning the Associations of MITRE ATT&CK Adversarial Techniques (Clustering analysis with ATT&CK): https://ieeexplore.ieee.org/abstract/document/9162207
+MITRE Sightings Ecosystem: https://ctid.mitre-engenuity.org/our-work/sightings-ecosystem/
+Semantic analysis of TTP relationships: https://www.first.org/resources/papers/conf2019/1100-Applebaum.pdf
+STIX language: https://oasis-open.github.io/cti-documentation/stix/intro.html
+TAXII application protocol: https://oasis-open.github.io/cti-documentation/taxii/intro.html
+ATT&CK STIX data: https://github.com/mitre-attack/attack-stix-data/blob/master/USAGE.md#the-attck-data-model
+Generating MITRE ATT&CK Signals in Elastic SIEM: Sysmon Data: https://www.elastic.co/blog/signals-in-elastic-siem-sysmon-data
+
+
+
